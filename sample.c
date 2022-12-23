@@ -2,6 +2,5 @@
 
 int main(){
     printf("hello, github\n");
-    return 0;
-    // コメント
+    return 0;  
 }
